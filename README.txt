@@ -1,6 +1,6 @@
 Description:
 A simple program that calculates the product and service sales. 
-This is requirement for one of my courses Object-Oriented Programming.
+This is a requirement for my Object-Oriented Programming class.
 
 
 Author: Kristin Maureal 
